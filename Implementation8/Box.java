@@ -1,6 +1,6 @@
 package Implementation8;
 
-public class Box extends Pen{
+public class Box extends Pen implements Interface1{
 
     int size = 20;
     String color = "YELLOW";

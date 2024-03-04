@@ -1,4 +1,4 @@
-package Implementation8;
+package Implementation9;
 public class Pen  implements Interface1{
     int size = 5;
     String color = "RED";
@@ -18,7 +18,7 @@ public class Pen  implements Interface1{
         
     }
     /*
-     * Pen doesnt have store and cleaning method
+     * Pen doesnt have store and cleanning method
      */
 
 }
